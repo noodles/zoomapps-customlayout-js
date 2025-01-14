@@ -91,7 +91,7 @@ sections:
 - clearParticipant,
 - closeRenderingContext
 - connect
-- rawImage
+- drawImage
 - drawParticipant
 - getMeetingParticipants
 - getMeetingUUID
